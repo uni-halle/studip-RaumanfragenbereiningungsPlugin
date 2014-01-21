@@ -1,4 +1,5 @@
 pluginclassname=RaumanfragenBereinigungPlugin
 pluginname=RaumanfragenBereinigungPlugin
 origin=data-quest
-version=1
+version=2
+studipMinVersion=2.3
